@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[dos:home|Door43 (dos)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-dos|d43-dos repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-dos/archive/master.zip|d43-dos.zip]]
+
+**Recent Changes**
+{{changes>ns = dos}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/dos|Ethnologue data]]
+
